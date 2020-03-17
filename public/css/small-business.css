@@ -1,0 +1,91 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body 
+{
+    padding-top: 56px;
+}
+.formularz
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 150%;
+}
+.tytul
+{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 175%;
+}
+.kartyN
+{
+    font-family: 'Fira Sans', sans-serif;
+    color: #00cc00;
+}
+.kartyR
+{
+    font-family: 'Fira Sans', sans-serif;
+    color: red;
+}
+.kartytekst
+{
+    font-family: 'Quicksand', sans-serif;
+}
+.tekst
+{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 125%;
+}
+.przycisk
+{
+    font-family: 'Cinzel', serif;
+}
+.przycisk1
+{
+    font-family: 'Cinzel', serif;
+    margin-top: 1%;
+}
+.logo
+{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 250%;
+}
+.menu
+{
+    font-family: 'Baloo Da', cursive;
+}
+.baner
+{
+    font-family: 'Baloo Da', cursive;
+    font-size: 200%; 
+
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+    text-indent: 0;
+    cursor: pointer;
+
+    border-radius: 50%;
+    background-color: #000;
+    box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);    
+}
+
+.carousel-indicators .active{
+    background-color: #f00;
+}
+.tlo
+{
+    background-image: url(../images/tlo.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.karuzela
+{
+    background: white;
+    border-radius: 5px;
+}
